@@ -1,3 +1,2 @@
-# computerhopeexample
-Learning to use github with computerhope
-https://www.computerhope.com/issues/ch001927.htm
+# ComputerHopeGitTutorial
+Learning to use Git from ComputerHope's tutorial: https://www.computerhope.com/issues/ch001927.htm.
